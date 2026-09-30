@@ -1,0 +1,18 @@
+{
+  "name": "block-ref-click-time",
+  "author": "YourName",
+  "url": "https://github.com/yourname/block-ref-click-time",
+  "version": "1.1.0",
+  "minAppVersion": "3.0.0",
+  "backends": ["all"],
+  "frontends": ["desktop", "mobile"],
+  "displayName": {
+    "default": "Block Ref Click Time",
+    "zh_CN": "块引用点击时间"
+  },
+  "description": {
+    "default": "Record the click time after a block reference.",
+    "zh_CN": "在块引用后记录点击时间。"
+  },
+  "keywords": ["block-ref", "click", "time", "块引用", "点击时间"]
+}
